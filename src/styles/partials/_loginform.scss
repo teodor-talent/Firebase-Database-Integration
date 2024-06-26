@@ -1,0 +1,28 @@
+.world{
+  display: flex;
+  flex-direction:column;
+  background-color: blue;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  height: 750px;
+}
+
+.hello{
+  height:30px;
+  width: 20%;
+  background-color: pink;
+}
+
+.name{
+  height:40px;
+  width: 20%;
+  background-color: yellow;
+}
+
+.name2{
+  height:40px;
+  width: 20%;
+  background-color: gray;
+}
+
